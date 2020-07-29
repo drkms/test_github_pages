@@ -1,1 +1,3 @@
 # test_github_pages
+
+Ceci n'est qu'un modeste test ...
